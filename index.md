@@ -11,3 +11,5 @@
 ### 安装说明
 1. 下载压缩包，解压到本地git项目仓库的hooks目录。（如:.git\hooks\myexe）
 2. 将压缩包里pre-commit文件，剪切到hooks目录。（先将原pre-commit文件修改为pre-commit.1）
+
+机器学习笔记
